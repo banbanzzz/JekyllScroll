@@ -7,6 +7,7 @@ date: 2016-02-13 02:34:03.000000000 +08:00
 2016030403133<br>
 翁修杰<br>
 [GitHub](https://github.com/banbanzzz)<br>
+<center>
 <h1>
 <a href="https://github.com/banbanzzz" target="blank" class="fa fa-github"></a>
 
@@ -34,6 +35,7 @@ date: 2016-02-13 02:34:03.000000000 +08:00
 <button id="zz" style="background-color: black; color: white; font-weight: bold; border-radius: 4px; width: 60px; height: 40px;top:60px;left:-30px; position: relative;display:none;" onclick="zclose()">close</button>
  </div>
  </h1>
+ </center>
 <script>
 function display(){
 	wt=document.getElementById('wt');
