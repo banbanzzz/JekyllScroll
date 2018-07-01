@@ -9,7 +9,7 @@ date: 2016-02-13 02:34:03.000000000 +08:00
 [GitHub](https://github.com/banbanzzz)<br>
 <center>
 <h1>
-<a href="https://github.com/banbanzzz" target="blank" class="fa fa-github"></a4
+<a href="https://github.com/banbanzzz" target="blank" class="fa fa-github"></a>
 
  <style>
     #wt{
