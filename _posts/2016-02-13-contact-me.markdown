@@ -9,8 +9,7 @@ date: 2016-02-13 02:34:03.000000000 +08:00
 [GitHub](https://github.com/banbanzzz)<br>
 <h1>
 <a href="https://github.com/banbanzzz" target="blank" class="fa fa-github"></a>
-<button style="background-color:rgba(139,139,139,0)" onclick="display()"<img src="assets/images/微信.png"></button>
-</h1>
+
  <style>
     #wt{
      color: #fff;
@@ -34,7 +33,7 @@ date: 2016-02-13 02:34:03.000000000 +08:00
 <img id="wc" src="assets/images/me.png" style="height: 200px;width:200px; position: relative; top: 30px; left: 120px;display:none;" target="blank">
 <button id="zz" style="background-color: black; color: white; font-weight: bold; border-radius: 4px; width: 60px; height: 40px;top:60px;left:-30px; position: relative;display:none;" onclick="zclose()">close</button>
  </div>
- 
+ </h1>
 <script>
 function display(){
 	wt=document.getElementById('wt');
