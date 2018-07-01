@@ -31,7 +31,7 @@ date: 2016-02-13 02:34:03.000000000 +08:00
 
  <input type="image" src="assets/images/wc.png" onclick="display()" style="position:absolute" >
  <div id="wt" >
-<img id="wc" src="assets/images/me.png" style="height: 200px;width:200px; position: relative; top: 30px; left: 120px;display:none;" target="blank">
+<img id="wc" src="assets/images/me.png" style="height: 200px;width:200px; position: relative; top: 30px; left: 0px;display:none;" target="blank">
 <button id="zz" style="background-color: black;color: white;font-weight: bold;border-radius: 4px;width: 100px;height: 50px;top: 30px;left: px;position: relative;font-size: 0.6em;display:none;" onclick="zclose()">close</button>
  </div>
  </h1>
